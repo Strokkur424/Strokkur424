@@ -16,6 +16,7 @@ If you'd like to get in contact with me consider sending me a message on [Discor
 ## I accept plugin requests!
 - If you want a plugin custom coded and are willing to pay me money (between 10€ - 100€ depending on the project size), I can develop a Minecraft plugin in any version for you!
 - If you have a obfuscated plugin and don't have the source code for it and would like me to deobfuscate it for you, you can ask me as well! (~25€)
+
 Message me on [Discord](https://discord.com/users/813141164281692170) for requests!
 
 <br><br>
