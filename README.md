@@ -13,8 +13,7 @@ Let me tell you something about me:
 - Eventhough most of my repositories are private, I've worked on some bigger projects. Some work-in-progress projects of mine are [AstiaMC](https://discord.gg/astiamc), a 1.8 factions-type Minecraft server and [MineLimit](https://discord.gg/minelimit), a 1.20 server network where I active develop for.
 
 If you'd like to get in contact with me consider sending me a message on [Discord (Click to view my profile)](https://discord.com/users/813141164281692170)
-
 <br><br>
-## Another notice
+## About my ethics
 I do plugin and mod developement for fun. I am not actively making money off of it. I've been coding for almost 5 years now and I've loved every second of it.
 This means that I am by no means a professional coder and you should not expect me to be able to create the next WorldEdit any time soon 🚒
