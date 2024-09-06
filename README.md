@@ -8,9 +8,9 @@ Let me tell you something about me:
   - Java <!-- ![Java](https://banner2.cleanpng.com/20180517/zve/kisspng-java-programmer-computer-programming-logo-5afe2f1dcf9897.0745314915266076458503.jpg) -->
   - C# <!-- ![C#](https://banner2.cleanpng.com/20180517/zve/kisspng-java-programmer-computer-programming-logo-5afe2f1dcf9897.0745314915266076458503.jpg) -->
   
-  - ...and as of late C++ 
+  - ...and as of late C++, and even a bit of C! 
 
-- Eventhough most of my repositories are private, I've worked on some bigger projects. Some work-in-progress projects of mine are [AstiaMC](https://discord.gg/astiamc), a 1.8 factions-type Minecraft server and [MineLimit](https://discord.gg/minelimit), a 1.20 server network where I active develop for.
+- Eventhough most of my repositories are private, I do have some bigger projects, which due to closed-source bs I can not share. But beware! I will put up some bangers soon!
 
 If you'd like to get in contact with me consider sending me a message on [Discord (Click to view my profile)](https://discord.com/users/813141164281692170)
 <br><br>
