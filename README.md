@@ -2,15 +2,9 @@
 
 It is me, Strokkur24!
 Fancy seeing you here. It seems to me that you ✨ _somehow_ ✨ found a way to my GitHub!
-Let me tell you something about me:
 
-- My main programming languages are:
-  - Java <!-- ![Java](https://banner2.cleanpng.com/20180517/zve/kisspng-java-programmer-computer-programming-logo-5afe2f1dcf9897.0745314915266076458503.jpg) -->
-  - C# <!-- ![C#](https://banner2.cleanpng.com/20180517/zve/kisspng-java-programmer-computer-programming-logo-5afe2f1dcf9897.0745314915266076458503.jpg) -->
-  
-  - ...and as of late C++, and even a bit of C! 
-
-- Eventhough most of my repositories are private, I do have some bigger projects, which due to closed-source bs I can not share. But beware! I will put up some bangers soon!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strokkur424&langs_count=8&layout=donut&theme=codeSTACKr )
+![Strokkur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Strokkur424&theme=codeSTACKr )
 
 If you'd like to get in contact with me consider sending me a message on [Discord (Click to view my profile)](https://discord.com/users/813141164281692170)
 <br><br>
