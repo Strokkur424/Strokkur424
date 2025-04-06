@@ -8,8 +8,8 @@ Fancy seeing you here. It seems to me that you ✨ _somehow_ ✨ found a way to 
 
 If you'd like to get in contact with me consider sending me a message on Discord: <a href="https://discord.com/users/813141164281692170">`@strokkur24`</a>.
 
-## Comissions are now open 🚀
-After almost 6 years of development in public and private projects, I have decided to open comissions for Minecraft Paper plugins!
+## Commissions are now open 🚀
+After almost 6 years of development in public and private projects, I have decided to open commissions for Minecraft Paper plugins!
 
 ### What do I do?
 - Plugin refactoring (message configurations, logic cleanup, Maven/Groovy Gradle -> Kotlin Gradle conversion).
