@@ -27,6 +27,7 @@ After almost 6 years of development in public and private projects, I have decid
 - A plugin has to exist, which I will extend. I do not want to create plugins from scratch.
 - You should have a repository on GitHub.
 - Payment will be discussed in advance, but you only have to pay once I am finished!
+- **I will only do Java plugins, no Kotlin!**
 
 ### Contact
 You can contact me via Discord: [`@strokkur24`](https://discord.com/users/813141164281692170). All payment goes through PayPal.
